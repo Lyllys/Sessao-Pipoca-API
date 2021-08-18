@@ -1,4 +1,4 @@
-<h1 align="center">🍿 SESSÃO PIPOCA WEBSITE </h1>
+<h1 align="center">🍿 SESSÃO PIPOCA API </h1>
 
 <br />
 
