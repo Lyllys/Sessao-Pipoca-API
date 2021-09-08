@@ -1,7 +1,7 @@
 <h1 align="center">🍿 SESSÃO PIPOCA API </h1>
 
 
-# Example text {style=text-align:center}
+# Example text {align=center}
 
 <br />
 
