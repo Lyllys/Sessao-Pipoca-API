@@ -1,8 +1,5 @@
 <h1 align="center">🍿 SESSÃO PIPOCA API </h1>
 
-
-# -> This is center aligned <-
-
 <br />
 
 <p align="center">
@@ -18,7 +15,9 @@ https://user-images.githubusercontent.com/76455440/129614475-84482ea3-6be1-4176-
 
 <br />
 
-<h2 id="sobre">💡 Sobre</h2>
+<h2 id="sobreeee">💡 Sobreeee</h2>
+
+## **Sobre**
 
 A aplicação "Sessão Pipoca" foi desenvolvida pensando em solucionar um problema real. Antes da pandemia, minha tia organizava algumas sessões que reuniam os sobrinhos para assistir algum filme. Ela chama esse evento de “Sessão Pipoca”. Toda vez que a gente ia escolher um filme era o mesmo dilema “a gente já viu esse filme?”. E nesse momento minha tia sempre falava “ a gente precisa colocar em um caderninho os filmes que já assistimos” . Nunca fizemos isso.
 
