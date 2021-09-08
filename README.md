@@ -1,5 +1,5 @@
 <h1 align="center">🍿 SESSÃO PIPOCA API </h1>
-#  SESSÃO PIPOCA API{align=center}
+#SESSÃO PIPOCA API{align=center}
 
 <br />
 
