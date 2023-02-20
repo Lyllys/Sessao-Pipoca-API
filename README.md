@@ -54,4 +54,4 @@ Para clonar o projeto e rodá-lo localmente você pode seguir os passos abaixo:
 
 <br />
 
-Made with 💜 by Lyllys Galhardo. 👋🏽 [Get in touch!](https://www.linkedin.com/in/lyllysgalhardo)
+👋🏽 [Get in touch!](https://www.linkedin.com/in/lyllysgalhardo)
